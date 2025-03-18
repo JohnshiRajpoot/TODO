@@ -16,7 +16,7 @@ A simple and stylish **TODO list** built with **React & CSS**, featuring smooth 
 ## 🚀 Installation  
 1️⃣ Clone the repo:  
 ```sh
-git clone https://github.com/YOUR_USERNAME/todo-app.git
+git clone https://github.com/JohnshiRajpoot/TODO.git
 cd todo-app
 ```  
 2️⃣ Install dependencies:  
