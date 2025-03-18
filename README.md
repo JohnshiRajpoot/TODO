@@ -29,7 +29,7 @@ npm start
 ```  
 
 ## 🌍 Live Demo  
-[**Click here**](https://todo-seven-alpha-92.vercel.app/) *(Update with your live link!)*  
+[**Click here**](https://todo-seven-alpha-92.vercel.app/) 
 
 ---
 
